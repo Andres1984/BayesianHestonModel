@@ -6,13 +6,13 @@ Decomposing Market Prices in Speculative Environments: A Bayesian Asset Pricing 
 
 ##  Overview
 
-In speculative markets such as crypto-assets—where fundamental value is unobservable or undefined, and investor behavior is shaped by sentiment and fragmented information—traditional asset pricing models fall short. This project proposes a novel approach to short-term price modeling by decomposing observed market prices into three latent components:
+In speculative markets such as crypto-assets where fundamental value is unobservable or undefined, and investor behavior is shaped by sentiment and fragmented information traditional asset pricing models fall short. This project proposes a novel approach to short-term price modeling by decomposing observed market prices into three latent components:
 
 - **Theoretical Value**
 - **Systematic Bias** (driven by perceived risk and optimism)
 - **Behavioral Noise** (capturing uncoordinated investor behavior)
 
-The model integrates a **Stochastic Discount Factor (SDF)** into a **Bayesian hierarchical Heston framework**, allowing the estimation of both volatility dynamics and pricing distortions in a probabilistic structure.
+The model integrates a Stochastic Discount Factor (SDF) into a Bayesian hierarchical Heston framework, allowing the estimation of both volatility dynamics and pricing distortions in a probabilistic structure.
 
 ##  Empirical Focus
 
